@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\MyProject.Entities\bin\Debug\MyProject.Entities.dll
+C:\Users\ahmet\source\repos\MyProject.Entities\bin\Debug\MyProject.Entities.pdb
+C:\Users\ahmet\source\repos\MyProject.Entities\bin\Debug\MyProject.Entities.xml
+C:\Users\ahmet\source\repos\MyProject.Entities\obj\Debug\UserManagement.Entities.vbproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\MyProject.Entities\obj\Debug\MyProject.Entities.Resources.resources
+C:\Users\ahmet\source\repos\MyProject.Entities\obj\Debug\UserManagement.Entities.vbproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\MyProject.Entities\obj\Debug\UserManagement.Entities.vbproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\MyProject.Entities\obj\Debug\MyProject.Entities.dll
+C:\Users\ahmet\source\repos\MyProject.Entities\obj\Debug\MyProject.Entities.xml
+C:\Users\ahmet\source\repos\MyProject.Entities\obj\Debug\MyProject.Entities.pdb
