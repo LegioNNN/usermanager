@@ -1,0 +1,12 @@
+C:\Users\ahmet\source\repos\Myproject\bin\Debug\Myproject.exe.config
+C:\Users\ahmet\source\repos\Myproject\bin\Debug\Myproject.exe
+C:\Users\ahmet\source\repos\Myproject\bin\Debug\Myproject.pdb
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\Myproject.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\Myproject.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\Myproject.exe
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\Myproject.pdb
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\Myproject.Login.resources
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\Myproject.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\MyProject.UI.FormKullaniciYonetim.resources
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\MyProject.UI.FormLogin.resources
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\MyProject.UI.FormUserEdit.resources

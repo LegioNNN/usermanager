@@ -1,0 +1,14 @@
+C:\Users\ahmet\source\repos\MyProject.DAL\bin\Debug\MyProject.DAL.dll
+C:\Users\ahmet\source\repos\MyProject.DAL\bin\Debug\MyProject.DAL.pdb
+C:\Users\ahmet\source\repos\MyProject.DAL\bin\Debug\MyProject.DAL.xml
+C:\Users\ahmet\source\repos\MyProject.DAL\obj\Debug\MyProject.DAL.vbproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\MyProject.DAL\obj\Debug\MyProject.DAL.Resources.resources
+C:\Users\ahmet\source\repos\MyProject.DAL\obj\Debug\MyProject.DAL.vbproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\MyProject.DAL\obj\Debug\MyProject.DAL.vbproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\MyProject.DAL\obj\Debug\MyProject.DAL.dll
+C:\Users\ahmet\source\repos\MyProject.DAL\obj\Debug\MyProject.DAL.xml
+C:\Users\ahmet\source\repos\MyProject.DAL\obj\Debug\MyProject.DAL.pdb
+C:\Users\ahmet\source\repos\MyProject.DAL\bin\Debug\MyProject.Entities.dll
+C:\Users\ahmet\source\repos\MyProject.DAL\bin\Debug\MyProject.Entities.pdb
+C:\Users\ahmet\source\repos\MyProject.DAL\bin\Debug\MyProject.Entities.xml
+C:\Users\ahmet\source\repos\MyProject.DAL\obj\Debug\MyProjec.49B2EC95.Up2Date

@@ -1,0 +1,7 @@
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\UserManager.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\MyProject.UI.FormKullaniciYonetim.resources
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\MyProject.UI.FormLogin.resources
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\MyProject.UI.FormUserEdit.resources
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\UserManager.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\UserManager.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Myproject\obj\Debug\MyProject.UI.FormProfil.resources

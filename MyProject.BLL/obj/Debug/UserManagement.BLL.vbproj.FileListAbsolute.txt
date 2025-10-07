@@ -1,0 +1,17 @@
+C:\Users\ahmet\source\repos\MyProject.BLL\bin\Debug\MyProject.BLL.dll
+C:\Users\ahmet\source\repos\MyProject.BLL\bin\Debug\MyProject.BLL.pdb
+C:\Users\ahmet\source\repos\MyProject.BLL\bin\Debug\MyProject.BLL.xml
+C:\Users\ahmet\source\repos\MyProject.BLL\bin\Debug\MyProject.DAL.dll
+C:\Users\ahmet\source\repos\MyProject.BLL\bin\Debug\MyProject.Entities.dll
+C:\Users\ahmet\source\repos\MyProject.BLL\bin\Debug\MyProject.DAL.pdb
+C:\Users\ahmet\source\repos\MyProject.BLL\bin\Debug\MyProject.DAL.xml
+C:\Users\ahmet\source\repos\MyProject.BLL\bin\Debug\MyProject.Entities.pdb
+C:\Users\ahmet\source\repos\MyProject.BLL\bin\Debug\MyProject.Entities.xml
+C:\Users\ahmet\source\repos\MyProject.BLL\obj\Debug\UserManagement.BLL.vbproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\MyProject.BLL\obj\Debug\MyProject.BLL.Resources.resources
+C:\Users\ahmet\source\repos\MyProject.BLL\obj\Debug\UserManagement.BLL.vbproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\MyProject.BLL\obj\Debug\UserManagement.BLL.vbproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\MyProject.BLL\obj\Debug\UserMana.F1676641.Up2Date
+C:\Users\ahmet\source\repos\MyProject.BLL\obj\Debug\MyProject.BLL.dll
+C:\Users\ahmet\source\repos\MyProject.BLL\obj\Debug\MyProject.BLL.xml
+C:\Users\ahmet\source\repos\MyProject.BLL\obj\Debug\MyProject.BLL.pdb
