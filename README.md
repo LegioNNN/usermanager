@@ -23,10 +23,6 @@ A comprehensive desktop application designed to digitize and streamline school m
 * **ORM:** Entity Framework / ADO.NET
 * **Architecture:** N-Tier Architecture (5 Layers)
 
-## 📸 Screenshots
-
-*(Lütfen buraya program çalışırken aldığın 1-2 ekran görüntüsünü sürükleyip bırak)*
-
 ## 📦 Installation
 
 1.  Clone the repository:
